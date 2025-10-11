@@ -114,7 +114,7 @@ export default function StaffDashboard() {
       <Card className="mx-4 mt-4 shadow-md">
         <CardContent className="pt-4 flex justify-between items-center">
           <div>
-            <h3 className="text-lg font-medium">Rooms Under Supervision</h3>
+            <h3 className="text-lg font-medium">Rooms Under Supervision</h3> 
             <p className="text-2xl font-bold">12</p>
           </div>
           <button className="bg-zinc-900 text-white px-4 py-2 rounded-lg flex items-center hover:shadow-md transition-shadow">
